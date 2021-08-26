@@ -1,3 +1,5 @@
-# movie-db
+# Movie Db
 
-just to play around
+Just experimenting with Vue 3 and flask.
+
+![screenshot][screenshot.png]
