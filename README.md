@@ -1,4 +1,4 @@
-# Movie Db
+# Movie DB
 
 Just experimenting with Vue 3 and flask.
 
